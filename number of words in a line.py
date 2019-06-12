@@ -1,5 +1,5 @@
 n=input()
-k=0
+k=1
 for x in n:
     if(x==' '):
         k=k+1
